@@ -9,9 +9,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bh-g&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=bh-g&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bh-g&layout=compact" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bh-g&theme=onedark" />
 </div>
