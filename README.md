@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bh-g&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikagupta" /> </p>
 
 - 🔭 I’m currently working on something exciting!
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate with like-minded individuals.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can spend hours reading
