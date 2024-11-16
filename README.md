@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate with like-minded individuals.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can spend hours reading
+<!--- ⚡ Fun fact: I can spend hours reading-->
 
 
 ## 🌐 Socials:
